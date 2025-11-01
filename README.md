@@ -117,7 +117,7 @@ The system generates `attendance.csv` with the following format:
 - [ ] Google Sheets integration for real-time collaboration
 - [ ] Real-time webcam streaming for continuous monitoring
 - [ ] Email notifications for attendance events
-- [ ] Multi-face detection with individual identification
+- [ ] Multi-face detection with individual identification 
 
 ## 👨‍💻 Author
 
